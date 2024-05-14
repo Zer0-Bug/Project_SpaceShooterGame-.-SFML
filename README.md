@@ -1,6 +1,6 @@
 ## Overview
 
-This project is a simple space shooter game coded and designed in C language using SFML (Simple and Fast Multimedia Library) graphics mode. The game is inspired by classic arcade shooters where players control a spaceship to destroy enemy ships.
+This project is a simple space shooter game coded and designed in C++ language using SFML (Simple and Fast Multimedia Library) graphics mode. The game is inspired by classic arcade shooters where players control a spaceship to destroy enemy ships.
 
 ## Features
 
@@ -21,7 +21,7 @@ This project is a simple space shooter game coded and designed in C language usi
 2. Navigate to the project directory:
 - cd Project_SpaceShooterGame-.-SFML
 
-3. Compile the source code using GCC or any other C compiler:
+3. Compile the source code using GCC or any other C++ compiler:
 - gcc main.c -o space-shooter -lsfml-graphics -lsfml-window -lsfml-system
 
 

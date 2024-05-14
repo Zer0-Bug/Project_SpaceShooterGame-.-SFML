@@ -16,13 +16,13 @@ This project is a simple space shooter game coded and designed in C language usi
 ### Building
 
 1. Clone the repository to your local machine:
-git clone https://github.com/Zer0-Bug/Project_SpaceShooterGame-.-SFML.git
+- git clone https://github.com/Zer0-Bug/Project_SpaceShooterGame-.-SFML.git
 
 2. Navigate to the project directory:
-cd Project_SpaceShooterGame-.-SFML
+- cd Project_SpaceShooterGame-.-SFML
 
 3. Compile the source code using GCC or any other C compiler:
-gcc main.c -o space-shooter -lsfml-graphics -lsfml-window -lsfml-system
+- gcc main.c -o space-shooter -lsfml-graphics -lsfml-window -lsfml-system
 
 
 ## Usage

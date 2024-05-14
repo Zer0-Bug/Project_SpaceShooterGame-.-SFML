@@ -1,0 +1,4 @@
+﻿  SpaceShooter.cpp
+C:\Users\Santa\Desktop\Zer0-Bug\Software Project Development\Project1-SpaceShooter\4-GraphicsModeSFML\SpaceShooter\SpaceShooter.cpp(48,92): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Santa\Desktop\Zer0-Bug\Software Project Development\Project1-SpaceShooter\4-GraphicsModeSFML\SpaceShooter\SpaceShooter.cpp(53,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  SpaceShooter.vcxproj -> C:\Users\Santa\Desktop\Zer0-Bug\Software Project Development\Project1-SpaceShooter\4-GraphicsModeSFML\SpaceShooter\x64\Debug\SpaceShooter.exe
